@@ -1,0 +1,14 @@
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\bin\Debug\AreYouSilly.exe.config
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\bin\Debug\AreYouSilly.exe
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\bin\Debug\AreYouSilly.pdb
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.csprojResolveAssemblyReference.cache
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\MainWindow.g.cs
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\App.g.cs
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly_MarkupCompile.cache
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly_MarkupCompile.lref
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\MainWindow.baml
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.g.resources
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.Properties.Resources.resources
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.csproj.GenerateResource.Cache
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.exe
+C:\eh\VS\programming\AreYouSillyEDPApp\AreYouSilly\obj\Debug\AreYouSilly.pdb
